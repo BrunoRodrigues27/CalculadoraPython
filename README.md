@@ -46,8 +46,8 @@ A aplicação foi desenvolvida utilizando apenas recursos nativos da linguagem P
 ## 📦 Como Executar
 
 1. Copie o conteúdo do código diretamente do GitHub.
-2. Cole em qualquer IDE ou editor de código (como VS Code, Thonny, PyCharm ou Replit).
-3. Execute o programa clicando em "Run" ou pressionando `F5`.
+2. Cole em qualquer IDE ou editor de código.
+3. Execute o programa clicando em "Run" ou pressionando.
 
 Pronto! Agora é só usar a calculadora direto no seu terminal. ✅
 
